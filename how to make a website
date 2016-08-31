@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Asrul Sani | UI Designer</title>
+    <link rel="stylesheet" href="css/normalize.css">
   </head>
   <body>
     <header>
@@ -53,8 +54,8 @@
       </ul>
     </section>
     <footer>
-      <a href="http://twitter.com/asarusans"><img src="twitter-wrap.png"> alt=""></a>
-      <a href="http://facebook.com/"><img src="facebook-wrap.png"> alt=""></a>
+      <a href="http://twitter.com/asarusans"><img src="img/twitter-wrap.png" alt=""></a>
+      <a href="http://facebook.com/"><img src="img/facebook-wrap.png" alt=""></a>
       <p>&copy; 2016 Asrul Sani.</p>
     </footer>
   </body>
